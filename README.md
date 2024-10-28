@@ -1,1 +1,1 @@
-# SoftEngyGithubPages
+This is the github pages repo of an azure project
